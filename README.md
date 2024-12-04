@@ -22,7 +22,6 @@ Frontend kısmında yüklenen dosyanın ilk 10 satırı, kolon başlıkları ile
 
 - **React.js**: Frontend framework
 - **xlsx**: Excel dosyalarını okumak için
-- **fetch API**: Backend'e dosya gönderimi
 
 ---
 
