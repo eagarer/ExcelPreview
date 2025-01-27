@@ -85,7 +85,4 @@ Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` d
 
 Eğer projeye katkıda bulunmak isterseniz, bir **Pull Request (PR)** oluşturabilir veya bir **issue** açabilirsiniz. Her türlü katkı memnuniyetle karşılanır!
 
----
-
-**Hazırlayan:** Eray AĞARER
 
